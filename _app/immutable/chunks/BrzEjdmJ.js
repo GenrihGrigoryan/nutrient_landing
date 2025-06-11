@@ -1,1 +1,0 @@
-import{k as l,l as r,m as d,t as c}from"./DiWCZYJz.js";function _(t,e,i,a,u){var s;l&&r();var n=(s=e.$$slots)==null?void 0:s[i],f=!1;n===!0&&(n=e.children,f=!0),n===void 0||n(t,f?()=>a:a)}function b(t,e,i){var a=d(t,e);a&&a.set&&(t[e]=i,c(()=>{t[e]=null}))}export{b,_ as s};
