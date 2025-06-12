@@ -21,6 +21,6 @@ window.addEventListener('DOMContentLoaded', () => {
       /* containScroll: 'trimSnaps' */
     });
 
-    console.log('Embla init, slides:', embla.slideNodes().length);
+    //console.log('Embla init, slides:', embla.slideNodes().length);
   });
 });
