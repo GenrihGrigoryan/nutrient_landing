@@ -34,9 +34,19 @@ button{
     all: unset;
 }
 
+ol{
+    list-style-type: none;
+    margin-block-start: 2em;
+    padding-inline-start: 0px;
+    margin-block-end: 0em;
+}
+
 ol, ul{
+    
+    /*
     margin-block-start: 0.5em;
     padding-inline-start: 16px;
+    */
 }
 
 .popup-panel{
