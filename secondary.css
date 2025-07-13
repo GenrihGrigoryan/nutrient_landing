@@ -1,9 +1,16 @@
-
+:root{
+    --top-margin: 60px;
+}
 
 body{
+
+
+
     max-width: 620px;
     padding: 16px;
     margin: auto;
+
+    margin-top: var(--top-margin);
 
     font-family: 'Raleway', system-ui, sans-serif;
     background-color: #111122; 
@@ -28,6 +35,11 @@ a {
 p{
     margin-block-start: 1em;
     margin-block-end: 0;
+}
+
+.pdf{
+    margin-block: 1em; 
+    height: 86vh;
 }
 
 button{
